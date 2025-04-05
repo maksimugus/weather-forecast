@@ -1,0 +1,19 @@
+{
+  "resources": {
+    "api_ninjas": "https://api.api-ninjas.com/v1/city",
+    "api_key": "lIpPqm5Jbzy5Rif6kgokvQ==7AylsFvUO5zSFMu2",
+    "open_meteo": "https://api.open-meteo.com/v1/forecast"
+  },
+  "cities": [
+    {
+      "city": "Saint Petersburg",
+      "forecast_days": 3,
+      "frequency": 300
+    },
+    {
+      "city": "Moscow",
+      "forecast_days": 3,
+      "frequency": 300
+    }
+  ]
+}
